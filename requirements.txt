@@ -1,6 +1,6 @@
 streamlit
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
 scipy
 requests
